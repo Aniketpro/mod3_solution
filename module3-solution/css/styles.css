@@ -1,0 +1,51 @@
+body{
+	background-color: #61122f
+}
+
+header .navbar{
+	background-color: pink;
+}
+
+h1{
+	font-weight: bold;
+	color: pink;
+}
+.navbar-brand h1 {
+	color: #61122f;
+	font-weight: bold;
+  	text-shadow: 1px 1px 1px #222;
+  	margin-top: 0;
+  	margin-bottom: 0;
+  	line-height: .75;
+}
+
+h2 {
+	text-align: center;
+	background-color: #61122f;
+  	color: #fff;
+}
+
+#box{
+	background-color: pink;
+	border: 2px solid black;	
+}
+
+#box2{
+	background-color: pink;
+	border: 2px solid black;		
+}
+
+#box3{
+	background-color: pink;
+	border: 2px solid black;
+}
+
+#nav-list li a{
+	color: #61122f;
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+#nav-list li:hover{
+	background-color: white;
+}
